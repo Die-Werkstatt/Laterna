@@ -1,0 +1,16 @@
+# Laterna: roadmap
+
+Intent, not record. What is done lives in the code and the closed issues; this
+file says what is next and why. Unchecked items are not done.
+
+## Now
+
+- [ ] TODO
+
+## Next
+
+- [ ] TODO
+
+## Later
+
+- [ ] TODO
