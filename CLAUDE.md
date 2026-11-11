@@ -36,3 +36,11 @@ None yet. Add build/test/run commands here when Phase 1 starts.
 - Houdini/USD/Karma behaviour: if unsure, say so and propose how to verify on Sandro's machine. Never guess.
 - Every new module gets a `docs/learn/<module>.md` page in the same session.
 - Update `docs/learn/glossary.md` when a new technical term appears.
+
+## Shared conventions
+
+See @agent_docs/CLAUDE.md for task tracking, pull requests and the files that come
+from the AllesSandro template.
+
+Before calling a task done, run `python3 .claude/suite-check.py` (it reads
+`.claude/suite.json`). A check it reports as skipped did not pass.
