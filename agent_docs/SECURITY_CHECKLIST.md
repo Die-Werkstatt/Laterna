@@ -12,8 +12,8 @@ The threat surface of this project and how each part is held. Pair with
 
 ## S1. Inputs
 
-- [ ] TODO: every place untrusted input enters (files, network, IPC, CLI args)
-      and how it is validated.
+No application code yet, so nothing takes input. Fill this in when Phase 1
+starts.
 
 ## S2. Credentials and secrets
 
